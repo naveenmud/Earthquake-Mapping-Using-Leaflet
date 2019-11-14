@@ -6,7 +6,7 @@
 
 
 
-[1-BasicMap](Images/1-BasicMap.png)
+[1-BasicMap](Leaflet-Step-1/Images/1-BasicMap.png)
 
 
 The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. 
